@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='free_proxy_verifyer',
-    version='0.0.1',
+    version='1.0.0',
     author='Mominur Rahman',
     author_email='mominurr518@email.com',
     description='A simple tool to verify working proxies',
