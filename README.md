@@ -18,10 +18,10 @@ Usage
 -----
 
 ```
-from free_proxy_verifyer import ProxyVerify
+from free_proxy_verifyer import proxyVerify
 
-# Create an instance of ProxyVerify
-checker = ProxyVerify()
+# Create an instance of proxyVerify
+checker = proxyVerify()
 
 # Define the proxy address to be verified
 proxy = "37.187.17.89:3128"

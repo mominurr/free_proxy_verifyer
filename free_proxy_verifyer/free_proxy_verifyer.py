@@ -3,11 +3,11 @@ import random
 
 class proxyVerify:
     """
-    ProxyVerify class to verify if a proxy is working or not.
+    proxyVerify class to verify if a proxy is working or not.
     Returns True if the proxy is working, else False.
 
     # Example usage:
-    checker = ProxyVerify()
+    checker = proxyVerify()
     proxy_address = "37.187.17.89:3128"
     result = checker.verify_proxy(proxy=proxy_address)
     print(result)
